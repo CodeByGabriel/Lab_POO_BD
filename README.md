@@ -1,12 +1,12 @@
 # Lab_POO_BD
 atividade de POO com banco de dados
-##TÍTULO DO PROJETO: Hemograma
+##TÍTULO DO PROJETO: Hemograma ##
 
-##OBJETIVO DO PROJETO: Seguir a logica de uma prancheta de hemograma.
+##OBJETIVO DO PROJETO: Seguir a logica de uma prancheta de hemograma. ##
 
-##VERSÃO ou DATA:calculadoradeIsulina2.0 ( com banco de dados) COMO INICIAR O PROJETO: criar um objeto que seja um paciente dai através dos métodos se dá nome e identificação a ele e depois informa a sua insulina para poder ser calculada
+##VERSÃO ou DATA:calculadoradeIsulina2.0 ( com banco de dados) COMO INICIAR O PROJETO: criar um objeto que seja um paciente dai através dos métodos se dá nome e identificação a ele e depois informa a sua insulina para poder ser calculada. ##
 
-##AUTORES:Gabriel Ferreira Dos Santos
+##AUTORES:Gabriel Ferreira Dos Santos ##
 
 ##INSTRUÇÕES PARA O USUÁRIO: Ou o usuário deve começar criando um objeto paciente e assim que atribuí lós os Dados. Em seguida você vai criar o hemograma, adicione os dados necessarios, como leococitos e hemoglobina.
 
