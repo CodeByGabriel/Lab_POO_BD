@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=HemogramaRepository
+comment1.params=database
+comment1.target=HemogramaRepository(Database)
+comment2.params=database
+comment2.target=void\ setDatabase(Database)
+comment3.params=hemograma
+comment3.target=Hemograma\ create(Hemograma)
+comment4.params=hemograma
+comment4.target=void\ update(Hemograma)
+comment5.params=hemograma
+comment5.target=void\ delete(Hemograma)
+comment6.params=id
+comment6.target=Hemograma\ loadFromId(int)
+comment7.params=
+comment7.target=java.util.List\ loadAll()
+numComments=8
